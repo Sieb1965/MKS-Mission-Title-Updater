@@ -51,5 +51,6 @@ Het script houdt de DOM in de gaten met een gedeelde MutationObserver-aanpak:
 
 | Bestand | Beschrijving |
 |---------|--------------|
-| `user.js` | Het Tampermonkey-script zelf |
+| `Mission title updater-7.0.0.user.js` | Het Tampermonkey-script zelf |
+| `get-missions.py` | Tool om nieuwe missielijst te creëren |
 | `missions.json` | Mapping van missie-id's naar eigen namen |
